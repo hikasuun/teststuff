@@ -8,7 +8,7 @@
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/eqbot/XIVSnapper",
       "Tags": [
-        "snapper"
+        "teststuff"
       ],
       "DalamudApiLevel": 13,
       "LoadPriority": 0,
