@@ -2,7 +2,7 @@
     {
       "Author": "Eqbot",
       "Name": "teststuff",
-      "InternalName": "Snapper",
+      "InternalName": "teststuff",
       "AssemblyVersion": "0.7.3.1",
       "Description": "/psnap to use",
       "ApplicableVersion": "any",
