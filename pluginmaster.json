@@ -1,0 +1,20 @@
+[
+    {
+      "Author": "Eqbot",
+      "Name": "teststuff",
+      "InternalName": "Snapper",
+      "AssemblyVersion": "0.7.3.1",
+      "Description": "/psnap to use",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/eqbot/XIVSnapper",
+      "Tags": [
+        "snapper"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadPriority": 0,
+      "Punchline": "Snapshot mods from your friends",
+      "DownloadLinkInstall": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
+      "DownloadLinkTesting": "https://github.com/eqbot/DalamudPluginRepo/raw/master/plugins/Snapper/latest.zip",
+    }
+]
